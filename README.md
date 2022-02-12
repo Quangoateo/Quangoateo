@@ -40,7 +40,7 @@ Skills: C,C++,Python,Tensorflow,
 
  <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=Quangoateo&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhkhuong2404)  
 
 # others:
 ![Visits Badge](https://badges.pufler.dev/visits/Quangoateo/Quangoateo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
