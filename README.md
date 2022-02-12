@@ -3,13 +3,14 @@
 
 <img src="https://media4.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif?cid=ecf05e4754f6wy5ullf9etow134vnb2l1f0u6d3gsh3kbcuw&rid=giphy.gif&ct=g" width="512" >
 
+![Welcome to my github porfolio](https://pbs.twimg.com/profile_banners/1251825118264745984/1644662971/1500x500)
+
 - 👋 Hi, I’m NgocQuang,a Cs student at  VGU
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning news programming languages .
 - 💞️ I’m looking to collaborate on working onsite
 
 
-![Welcome to my github porfolio](https://pbs.twimg.com/profile_banners/1251825118264745984/1644662971/1500x500)
 
 I love technology and programming
 Code for food
