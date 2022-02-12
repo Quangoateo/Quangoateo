@@ -21,14 +21,7 @@ Skills: C,C++,Python,Tensorflow,
 
 ![Quangoateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quangoateo&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quangoateo&layout=compact)](https://github.com/Quangoateo/github-readme-stats)
-# Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/main/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Quangoateo/count.svg" />
-</p>
 
 
 
