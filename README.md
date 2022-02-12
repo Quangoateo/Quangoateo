@@ -35,4 +35,10 @@ Skills: C,C++,Python,Tensorflow,
   <img src="https://profile-counter.glitch.me/Quangoateo/count.svg" />
 </p>
 
+# Contribution:
+![Visits Badge](https://badges.pufler.dev/visits/Quangoateo/Quangoateo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
+[![Years Badge](https://badges.pufler.dev/years/minhkhuong2404)](https://badges.pufler.dev)
 
+![Profile last updated](https://img.shields.io/github/last-commit/Quangoateo/Quangoateo/main?label=Last%20updated&style=flat)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Quangoateo) 
