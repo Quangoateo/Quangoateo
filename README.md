@@ -23,7 +23,7 @@ Skills: C,C++,Python,Tensorflow,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quangoateo&layout=compact)](https://github.com/Quangoateo/github-readme-stats)
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/Quangoateo/main/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
