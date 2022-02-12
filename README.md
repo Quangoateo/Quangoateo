@@ -19,7 +19,7 @@ Skills: C,C++,Python,Tensorflow,
 
 
 
-![Quangoateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Quangoateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quangoateo&hide=contribs,prs)
 
 # Hey there :wave:
 
