@@ -36,6 +36,13 @@ Skills: C,C++,Python,Tensorflow,
 </p>
 
 # Contribution:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Quangoateo&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <img src="https://github-readme-stats-alpha-vert.vercel.app/api/top-langs/?username=Quangoateo&layout=compact&theme=vue&hide_border=true&text_color=669900&langs_count=8"/>
+
+
+
+# others:
 ![Visits Badge](https://badges.pufler.dev/visits/Quangoateo/Quangoateo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/minhkhuong2404)](https://badges.pufler.dev)
 
