@@ -19,6 +19,8 @@ Skills: C,C++,Python,Tensorflow,
 
 
 
+![Quangoateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
