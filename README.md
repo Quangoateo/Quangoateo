@@ -23,7 +23,7 @@ Skills: C,C++,Python,Tensorflow,
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/main/resources/banner.png" alt="Hello world">
+https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
 
 <p align="center"> 
   Visitor count<br>
