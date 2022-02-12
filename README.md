@@ -21,6 +21,13 @@ Skills: C,C++,Python,Tensorflow,
 
 
 
+# Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Quangoateo/count.svg" />
+</p>
 
 
