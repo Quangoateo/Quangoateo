@@ -7,7 +7,7 @@ Skills: C,C++,Python,Tensorflow,
 - 🔭 I’m currently working on this page. 
 <hr />
 ## Hey there :wave:
-<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/main/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Quangoateo/Quangoateo/main/banner.png" alt="Gwang Woo">
 
 <p align="center"> 
   Visitor count<br>
