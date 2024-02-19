@@ -12,4 +12,3 @@ Skills: C,C++,Python,Tensorflow,
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Quangoateo/count.svg" />
 </p>
-<hr />
