@@ -27,14 +27,3 @@ Skills: C,C++,Python,Tensorflow,
   <img src="https://profile-counter.glitch.me/Quangoateo/count.svg" />
 </p>
 <hr />
-## Contributions:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Quangoateo&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Quangoateo)  
-
-## others:
-![Visits Badge](https://badges.pufler.dev/visits/Quangoateo/Quangoateo?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
-[![Years Badge](https://badges.pufler.dev/years/Quangoateo)](https://badges.pufler.dev)
-![Profile last updated](https://img.shields.io/github/last-commit/Quangoateo/Quangoateo/main?label=Last%20updated&style=flat)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Quangoateo) 
-### Show some ❤️ by starring some of the repositories! Thank you for visiting my Github ❤️
