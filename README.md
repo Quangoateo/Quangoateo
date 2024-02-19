@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Quang
+# Hi there 
 ## Welcome to my github porfolio
 - Interest in  Software Engineering ,Devops
 - I’m looking to collaborate on working onsite
