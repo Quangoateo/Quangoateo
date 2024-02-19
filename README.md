@@ -1,7 +1,5 @@
 # Hi there 👋, my name is Quang
 ## Welcome to my github porfolio
-<hr />
-  
 
   
 - 👋 Hi, I’m NgocQuang,a Cs student at  VGU
