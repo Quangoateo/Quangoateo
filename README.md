@@ -1,6 +1,6 @@
 # Hi there 
 ## Welcome to my github porfolio
-- Interest in  Software Engineering ,Devops ,Security
+- Interest in  Software Engineering 
 - I’m looking to collaborate on working onsite
 Code for food
 - 🔭 I’m currently working on this page. 
